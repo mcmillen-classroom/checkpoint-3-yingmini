@@ -18,8 +18,8 @@ public class QuizOOPMain
         questions[0] = new TrueFalseQuestion("Laney is better than BCC?", true);
         questions[1] = new TrueFalseQuestion("Java is an easy to understand language?", false);
         questions[2] = new FillTheBlankQuestion("Which season will the F building be open?", "fall", "Fall 2019", "Maybe never");
-        questions[3] = new MultipleChoiceQuesiton("When does room 274 starts?", MChoice_1, Multi_1);
-        questions[4] = new MultipleChoiceQuesiton("When does room 274 ends?", MChoice_2, Multi_2);
+        questions[3] = new MultipleChoiceQuesiton("When does room 271 starts?", MChoice_1, Multi_1);
+        questions[4] = new MultipleChoiceQuesiton("When does room 271 ends?", MChoice_2, Multi_2);
 
         int index = 0;
         int score = 0;
